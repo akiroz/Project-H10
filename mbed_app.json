@@ -1,0 +1,11 @@
+{
+    "target_overrides": {
+        "*": {
+            "platform.stdio-baud-rate": "115200",
+            "target.console-uart-tx": "PB_10",
+            "target.console-uart-rx": "PB_11",
+            "target.printf_lib": "std",
+            "target.restrict_size": "0x100000"
+        }
+    }
+}
