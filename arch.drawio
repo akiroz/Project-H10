@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-04-16T16:11:33.451Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="L1niPnKTVtJHWQuBGAoD" version="21.1.2" type="device">
+<mxfile host="Electron" modified="2023-04-17T16:06:13.469Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="Uo_3pYMFlVG3EuxF1nzN" version="21.1.2" type="device">
   <diagram name="Page-1" id="n-3lD2H-Wkeag2W9W8b0">
     <mxGraphModel dx="954" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,8 +80,8 @@
         <mxCell id="EO7T-lwEUSpfjx_beom1-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EO7T-lwEUSpfjx_beom1-7" target="EO7T-lwEUSpfjx_beom1-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="400" />
-              <mxPoint x="250" y="400" />
+              <mxPoint x="700" y="410" />
+              <mxPoint x="250" y="410" />
               <mxPoint x="250" y="290" />
             </Array>
           </mxGeometry>
@@ -89,7 +89,7 @@
         <mxCell id="EO7T-lwEUSpfjx_beom1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EO7T-lwEUSpfjx_beom1-7" target="EO7T-lwEUSpfjx_beom1-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EO7T-lwEUSpfjx_beom1-51" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=1;" parent="1" source="EO7T-lwEUSpfjx_beom1-7" target="EO7T-lwEUSpfjx_beom1-50" edge="1">
+        <mxCell id="EO7T-lwEUSpfjx_beom1-51" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;rounded=1;" parent="1" source="EO7T-lwEUSpfjx_beom1-7" target="EO7T-lwEUSpfjx_beom1-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n_GUoloKwii0JjfSqNVO-1" value="SPI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EO7T-lwEUSpfjx_beom1-51" vertex="1" connectable="0">
@@ -288,9 +288,6 @@
         </mxCell>
         <mxCell id="n_GUoloKwii0JjfSqNVO-7" value="LDO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="280" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cZI69z1NmbuiU9qU_al--1" value="Jack&lt;br&gt;BoardConn&amp;nbsp;03JQ-ST (C378905)&lt;br&gt;6.3mm&amp;nbsp;PJ-609BA (C309277)&lt;br&gt;&lt;br&gt;Panel&lt;br&gt;BoardConn&amp;nbsp;08JQ-ST (C593685)&lt;br&gt;Encoder&amp;nbsp;EC12E2430803 (C470684)&lt;br&gt;RGB&amp;nbsp;LTST-S310F3WT (C284951)&lt;br&gt;Driver:&amp;nbsp;STP16CPC26XTR (C411391)&lt;br&gt;Input:&amp;nbsp;74HCT165D (C456131)&lt;br&gt;Pushbutton https://www.aliexpress.com/item/1005002530474849.html&lt;br&gt;&lt;br&gt;Platform&lt;br&gt;OpAmpSocket&amp;nbsp;Z-100083200100100 (C115171)&lt;br&gt;USB-C&amp;nbsp;GT-USB-7010C (C2843967)&lt;br&gt;Toslink ZGY133/T8(PLT) (C277780)&lt;br&gt;SPDIF&amp;nbsp;CS8416 (C11163)&lt;br&gt;LDO&amp;nbsp;BA78M05FP-E2 (C79645)&lt;br&gt;VGnd&amp;nbsp;BUF634A (C2058426)&lt;br&gt;Relay&amp;nbsp;HFD3/5 (C36460)&lt;br&gt;MCU&amp;nbsp;STM32U575VGT6 (C5270988)&lt;br&gt;EEPROM&amp;nbsp;M24C02-WMN6TP (C7562)&lt;br&gt;DigiPot LM1972 (Mouser 926-LM1972MX/NOPB&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;br&gt;RCA&amp;nbsp;https://www.aliexpress.com/item/32815383067.html&lt;br&gt;&lt;br&gt;DAC&lt;br&gt;BoardConn&amp;nbsp;08JQ-BT (C163025)&lt;br&gt;DAC&amp;nbsp;CS4398-CZZR (C9931)" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="300" y="620" width="440" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
