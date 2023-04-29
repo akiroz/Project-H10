@@ -4,3 +4,5 @@
 .mbedbuild
 cmake_build/
 mbed-os/
+pcb/*.l#*
+pcb/*.s#*
